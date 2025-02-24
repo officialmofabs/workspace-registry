@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'officialmofabs Registry',
+    description: 'The official store for my workspace builds.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'hhttps://github.com/officialmofabs/workspaces-registry',
+    contactUrl: 'https://github.com/officialmofabs/support',
   },
   reactStrictMode: true,
   swcMinify: true,
