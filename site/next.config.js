@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'officialmofabs Registry',
+    name: 'Mo's workspace',
     description: 'The official store for my workspace builds.',
     icon: '/img/logo.svg',
-    listUrl: 'hhttps://github.com/officialmofabs/workspaces-registry',
+    listUrl: 'https://github.com/officialmofabs/workspaces-registry',
     contactUrl: 'https://github.com/officialmofabs/support',
   },
   reactStrictMode: true,
